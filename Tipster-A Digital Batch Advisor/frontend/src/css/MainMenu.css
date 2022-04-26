@@ -1,0 +1,217 @@
+.homemenu {
+  border: 1px solid rgb(231, 231, 231);
+  border-radius: 5px;
+  background-color: rgb(241, 241, 241);
+  display: inline-table;
+  text-align: center;
+  padding-top: 8px;
+  padding-bottom: 24px;
+  padding-left: 18.5px;
+  padding-right: 18.5px;
+  margin-right: 81px;
+}
+
+.homemenu:hover {
+  background-color: rgb(133, 133, 133);
+  border: none;
+  transform: scale(1.15);
+}
+
+.addcoursemenu {
+  border: 1px solid rgb(231, 231, 231);
+  border-radius: 5px;
+  background-color: rgb(241, 241, 241);
+  display: inline-table;
+  text-align: center;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-right: 81px;
+}
+
+.addcoursemenu:hover {
+  background-color: rgb(133, 133, 133);
+  border: none;
+  transform: scale(1.15);
+}
+
+.repeatcoursemenu {
+  border: 1px solid rgb(231, 231, 231);
+  border-radius: 5px;
+  background-color: rgb(241, 241, 241);
+  display: inline-table;
+  text-align: center;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-right: 81px;
+}
+
+.repeatcoursemenu:hover {
+  background-color: rgb(133, 133, 133);
+  border: none;
+  transform: scale(1.15);
+}
+
+.freezesemestermenu {
+  border: 1px solid rgb(231, 231, 231);
+  border-radius: 5px;
+  background-color: rgb(241, 241, 241);
+  display: inline-table;
+  text-align: center;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 9.5px;
+  padding-right: 9.5px;
+  margin-right: 81px;
+}
+
+.freezesemestermenu:hover {
+  background-color: rgb(133, 133, 133);
+  border: none;
+  transform: scale(1.15);
+}
+
+.degreeplannermenu {
+  border: 1px solid rgb(231, 231, 231);
+  border-radius: 5px;
+  background-color: rgb(241, 241, 241);
+  display: inline-table;
+  text-align: center;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 13px;
+  padding-right: 13px;
+  margin-right: 81px;
+}
+
+.degreeplannermenu:hover {
+  background-color: rgb(133, 133, 133);
+  border: none;
+  transform: scale(1.15);
+}
+
+.guidanceboxmenu {
+  border: 1px solid rgb(231, 231, 231);
+  border-radius: 5px;
+  background-color: rgb(241, 241, 241);
+  display: inline-table;
+  text-align: center;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 8px;
+  padding-right: 8px;
+  margin-right: 81px;
+}
+
+.guidanceboxmenu:hover {
+  background-color: rgb(133, 133, 133);
+  border: none;
+  transform: scale(1.15);
+}
+
+.pastpapersmenu {
+  border: 1px solid rgb(231, 231, 231);
+  border-radius: 5px;
+  background-color: rgb(241, 241, 241);
+  display: inline-table;
+  text-align: center;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 15.5px;
+  padding-right: 15.5px;
+  margin-right: 81px;
+}
+
+.pastpapersmenu:hover {
+  background-color: rgb(133, 133, 133);
+  border: none;
+  transform: scale(1.15);
+}
+
+.officehoursmenu {
+  border: 1px solid rgb(231, 231, 231);
+  border-radius: 5px;
+  background-color: rgb(241, 241, 241);
+  display: inline-table;
+  text-align: center;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 17px;
+  padding-right: 17px;
+  margin-right: 81px;
+}
+
+.officehoursmenu:hover {
+  background-color: rgb(133, 133, 133);
+  border: none;
+  transform: scale(1.15);
+}
+
+.mailboxmenu {
+  border: 1px solid rgb(231, 231, 231);
+  border-radius: 5px;
+  background-color: rgb(241, 241, 241);
+  display: inline-table;
+  text-align: center;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.mailboxmenu:hover {
+  background-color: rgb(133, 133, 133);
+  border: none;
+  transform: scale(1.15);
+}
+
+.menuicon {
+  width: 30px;
+  height: 30px;
+}
+
+.homemenuname {
+  /* margin-bottom: 1px; */
+  margin-top: 5px;
+  margin-bottom: 3px;
+  color: black;
+}
+
+.menuname {
+  /* margin-bottom: 1px; */
+  margin-top: 5px;
+  margin-bottom: 3px;
+  color: black;
+}
+
+.mainmenudiv {
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 40px;
+}
+.BAmenuslink {
+  color: black;
+  text-decoration: none;
+}
+
+.BAmenus {
+  display: inline;
+  padding-right: 115px;
+}
+
+.BAmailboxmenu {
+  display: inline;
+}
+
+.BAmenus:hover {
+  color: rgb(201, 121, 0);
+ 
+}
+
+.BAmailboxmenu:hover {
+  color: rgb(201, 121, 0);
+
+}

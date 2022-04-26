@@ -1,0 +1,175 @@
+.nexticon {
+  width: 25px;
+  height: 25px;
+}
+
+.nexticon:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+}
+.pendingReg {
+  width: 350px;
+}
+
+.pendingName {
+  width: 450px;
+}
+
+.pendingType {
+  width: 350px;
+}
+
+.formIcon {
+  width: 150px;
+}
+
+.AddDropFormContainer {
+  background-color: rgb(231, 231, 231);
+  margin-left: 150px;
+  margin-right: 150px;
+  height: 450px;
+  margin-top: -20px;
+  border-radius: 0px 0px 5px 5px;
+  padding: 20px 40px 20px 40px;
+}
+
+.formLabel {
+  display: inline;
+}
+.formData {
+  display: inline;
+  font-weight: normal;
+  margin-left: 20px;
+}
+
+.formDataName {
+  display: inline;
+  font-weight: normal;
+  margin-left: 27px;
+}
+.formDataEmail {
+  display: inline;
+  font-weight: normal;
+  margin-left: 30px;
+}
+.formDataCgpa {
+  display: inline;
+  font-weight: normal;
+  margin-left: 27px;
+}
+.formDataContact {
+  display: inline;
+  font-weight: normal;
+  margin-left: 15px;
+}
+.credentials {
+  margin-bottom: 15px;
+}
+
+.challandiv {
+  background-color: rgb(197, 194, 194);
+  height: 220px;
+  width: 220px;
+  float: right;
+  margin-top: -220px;
+}
+
+.AddDropTable {
+  margin-top: 50px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.acceptBtn {
+  background-color: green;
+  color: white;
+  padding: 10px 10px 10px 10px;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 5px;
+  border: none;
+  margin-left: 43%;
+  margin-top: 30px;
+}
+
+.rejectBtn {
+  background-color: red;
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  font-size: 14px;
+  padding: 7px 15px 7px 15px;
+}
+
+.formCourseCode {
+  width: 350px;
+}
+
+.formCourseTitle {
+  width: 1200px;
+}
+
+.formCredits {
+  width: 120px;
+}
+
+.formRequestType {
+  width: 350px;
+}
+
+.formSection {
+  width: 200px;
+}
+
+.formPretestMarks {
+  width: 300px;
+}
+.formReject {
+  width: 120px;
+}
+
+.FreezeSemesterTable {
+  margin-top: 50px;
+}
+
+.FreezeAcceptBtn {
+  background-color: green;
+  color: white;
+  padding: 10px 10px 10px 10px;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 5px;
+  border: none;
+  margin-left: 47%;
+  margin-top: 30px;
+}
+
+.FreezeRejectBtn {
+  background-color: red;
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  margin-left: 42%;
+  padding: 10px 10px 10px 10px;
+}
+
+.FreezeSemesterFormContainer {
+  background-color: rgb(231, 231, 231);
+  margin-left: 150px;
+  margin-right: 150px;
+  height: 450px;
+  margin-top: -20px;
+  border-radius: 0px 0px 5px 5px;
+  padding: 20px 40px 20px 40px;
+}
+
+.FreezeReject {
+  width: 150px;
+}
+
+.FreezeTime {
+  width: 300px;
+}
